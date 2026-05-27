@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8_Starter",
+    "short_name": "Natalin Duangpanya",
+    "description": "Lab 8",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#d6d9ce",
+    "theme_color": "#f3dad8",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
